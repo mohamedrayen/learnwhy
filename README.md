@@ -1,21 +1,15 @@
-# learnwhy
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
+# LearnWhy: Vue.js Frontend
+### Cloudflare Hackathon:
+This Vue.js frontend page is part of the LearnWhy project developed for the Cloudflare AI Challenge.
+### Description:
+The LearnWhy frontend is built using Vue.js, offering a dynamic and interactive user interface for the LearnWhy application. It serves as the gateway for users to input their struggles with understanding scientific concepts and receive real-world stories and accompanying images in response.
+### Features:
+- Speech input for users to articulate their challenges.
+- Seamless integration with Cloudflare Workers for story and image generation.
+- Dynamic rendering of stories and images for enhanced user engagement.
+### Installation:
+Clone this repository.
 ```sh
 npm install
 ```
